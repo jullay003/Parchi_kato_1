@@ -1,7 +1,6 @@
-package com.jullayro.tickets.domain;
+package com.jullayro.tickets.domain.entities;
 
 
-import com.fasterxml.jackson.annotation.JsonAnyGetter;
 import jakarta.persistence.*;
 import lombok.*;
 import org.springframework.data.annotation.CreatedDate;

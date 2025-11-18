@@ -1,4 +1,4 @@
-package com.jullayro.tickets.domain;
+package com.jullayro.tickets.domain.entities;
 
 import jakarta.persistence.*;
 import lombok.*;

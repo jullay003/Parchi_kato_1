@@ -9,7 +9,7 @@ import org.springframework.security.oauth2.server.resource.web.authentication.Be
 import org.springframework.security.web.SecurityFilterChain;
 
 @Configuration
-public class SecurituConfig {
+public class SecurityConfig {
 
     public SecurityFilterChain filterChain(
             HttpSecurity http,
